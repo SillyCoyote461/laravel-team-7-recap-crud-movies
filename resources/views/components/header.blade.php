@@ -10,6 +10,7 @@
           <a class="nav-link" aria-current="page" href="#">Movies</a>
           {{-- <a class="nav-link active" href="#">Features</a>
           <a class="nav-link" href="#">Pricing</a> --}}
+          <h1>test</h1>
         </div>
       </div>
     </div>
