@@ -14,7 +14,7 @@ class MovieController extends Controller
      */
     public function index()
     {
-        //
+        return view('pages.movies.index');
     }
 
     /**
@@ -57,7 +57,7 @@ class MovieController extends Controller
      */
     public function edit(Movie $movie)
     {
-        //
+        return view('pages.movies.edit');
     }
 
     /**
