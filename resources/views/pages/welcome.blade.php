@@ -3,5 +3,5 @@
 @section('titolo-pagina', 'Recap Movies')
 
 @section('contenuto-main')
-    <h1 class="text-center">Home</h1>
+    <h1 class="text-center">Home Page</h1>
 @endsection
