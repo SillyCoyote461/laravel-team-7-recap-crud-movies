@@ -57,7 +57,7 @@ class MovieController extends Controller
      */
     public function edit(Movie $movie)
     {
-        //
+        return view('pages.movies.edit');
     }
 
     /**
